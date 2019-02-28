@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## ASA DataFest at MSU
 
-You can use the [editor on GitHub](https://github.com/andyhoegh/MSUDataFest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+DataFest is a 48-hour data science celebration organized by the American Statistical Association. DataFest originated in 2011 and has since spread to nearly 40 locations, including Montana State University in 2018. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The data set is unveiled on Friday evening and teams of students work the analyze the data and present their findings to a panel of judges on Sunday. Additional details about DataFest can be found on the [ASA website](https://ww2.amstat.org/education/datafest/).
 
-### Markdown
+### Past Data Sets
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Each year a unique, and *top secret*, data set is curated for the contest. Past data providers include:
 
-```markdown
-Syntax highlighted code block
+- 2018 www.indeed.com
+- 2018 www.expedia.com
+- 2016 www.ticketmaster.com
+- 2015 www.edmunds.com
+- 2014 www.gridpoint.com
+- 2103 www.eharmony.com
+- 2012 www.kiva.com
+- 2011 Los Angeles Police Department
 
-# Header 1
-## Header 2
-### Header 3
+## 2019 Competition
+The second annual ASA DataFest at Montana we be held from April 12 - April 14 in Jake Jabs Hall on the campus of Montana State University. This year participation will be open to all undergraduate and first-year graduate students at colleges and universities in Montana. We are also seeking volunteers to serve as mentors and judges as well as corporate partners for the event.
 
-- Bulleted
-- List
+Thanks to our generous partners meals will be provided during the event.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Tentative Schedule
+Note there will also be short presentations from our partners during the course of the event and data prizes for teams that are able to answer questions using the event's data set.
 
-[Link](url) and ![Image](src)
-```
+##### Friday April 12
+- 5:30 Welcome
+- 5:35 Data Reveal
+- 6:00 Dinner
+- 10:00 Doors Close
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### Saturday April 13
+- 8:30 Doors Open / Continental Breakfast
+- 12:00 Lunch
+- 6:00 Dinner
+- 10:00 Doors Close
 
-### Jekyll Themes
+##### Sunday April 14
+- 8:00 Doors Open / Continental Breakfast
+- 11:30 Presentations Due
+- 12:00 Presentations Start
+- 1:00 Final Awards
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andyhoegh/MSUDataFest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Participants
+Participants can register using the [following form](https://goo.gl/forms/Rm2iCLsbWIiASV6u1).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Volunteers
+Volunteers can sign up using the [following form](https://goo.gl/forms/HMfqi3XA4cbC81sn1).
+
+### Partners
+
+We are actively seeking partners for the 2019 event to come interact with our students and/or provide meals for participants and volunteers.
+
+Thanks to our 2018 partners:
+- [Tadpull](https://www.tadpull.com)
+- [Zoot](https://zootsolutions.com)
+- [Data Infrastructure & Scholarly Communication at the Montana State University Library](https://www.montana.edu/disc/)
