@@ -8,13 +8,13 @@ The data set is unveiled on Friday evening and teams of students work the analyz
 
 Each year a unique, and *top secret*, data set is curated for the contest. Past data providers include:
 
-- 2018 www.indeed.com
-- 2018 www.expedia.com
-- 2016 www.ticketmaster.com
-- 2015 www.edmunds.com
-- 2014 www.gridpoint.com
-- 2103 www.eharmony.com
-- 2012 www.kiva.com
+- 2018 [www.indeed.com](www.indeed.com)
+- 2017 [www.expedia.com](www.expedia.com)
+- 2016 [www.ticketmaster.com](www.ticketmaster.com)
+- 2015 [www.edmunds.com](www.edmunds.com)
+- 2014 [www.gridpoint.com](www.gridpoint.com)
+- 2103 [www.eharmony.com](www.eharmony.com)
+- 2012 [www.kiva.com](www.kiva.com)
 - 2011 Los Angeles Police Department
 
 ## 2019 Competition
@@ -46,7 +46,7 @@ Note there will also be short presentations from our partners during the course 
 
 
 ### Participants
-Participants can register using the [following form](https://goo.gl/forms/Rm2iCLsbWIiASV6u1).
+Participants can register using the [following form](https://goo.gl/forms/Rm2iCLsbWIiASV6u1). Note registration will close three days prior to the event on Tuesday April 9th.
 
 ### Volunteers
 Volunteers can sign up using the [following form](https://goo.gl/forms/HMfqi3XA4cbC81sn1).
@@ -59,3 +59,4 @@ Thanks to our 2018 partners:
 - [Tadpull](https://www.tadpull.com)
 - [Zoot](https://zootsolutions.com)
 - [Data Infrastructure & Scholarly Communication at the Montana State University Library](https://www.montana.edu/disc/)
+- [Google](https:
