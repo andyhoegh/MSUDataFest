@@ -8,13 +8,13 @@ The data set is unveiled on Friday evening and teams of students work the analyz
 
 Each year a unique, and *top secret*, data set is curated for the contest. Past data providers include:
 
-- 2018 [www.indeed.com](www.indeed.com)
-- 2017 [www.expedia.com](www.expedia.com)
-- 2016 [www.ticketmaster.com](www.ticketmaster.com)
-- 2015 [www.edmunds.com](www.edmunds.com)
-- 2014 [www.gridpoint.com](www.gridpoint.com)
-- 2103 [www.eharmony.com](www.eharmony.com)
-- 2012 [www.kiva.com](www.kiva.com)
+- 2018 [www.indeed.com](https://www.indeed.com)
+- 2017 [www.expedia.com](https://www.expedia.com)
+- 2016 [www.ticketmaster.com](https://www.ticketmaster.com)
+- 2015 [www.edmunds.com](https://www.edmunds.com)
+- 2014 [www.gridpoint.com](https://www.gridpoint.com)
+- 2103 [www.eharmony.com](https://www.eharmony.com)
+- 2012 [www.kiva.com](https://www.kiva.com)
 - 2011 Los Angeles Police Department
 
 ## 2019 Competition
