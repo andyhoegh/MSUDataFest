@@ -59,4 +59,4 @@ Thanks to our 2018 partners:
 - [Tadpull](https://www.tadpull.com)
 - [Zoot](https://zootsolutions.com)
 - [Data Infrastructure & Scholarly Communication at the Montana State University Library](https://www.montana.edu/disc/)
-- [Google](https:
+- [Google](https://www.google.com)
