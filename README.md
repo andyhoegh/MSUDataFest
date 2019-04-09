@@ -47,16 +47,20 @@ Note there will also be short presentations from our partners during the course 
 
 
 ### Participants
-Participants can register using the [following form](https://goo.gl/forms/Rm2iCLsbWIiASV6u1). Note registration will close three days prior to the event on Tuesday April 9th.
+Registration is now closed for the 2019 event.
 
 ### Volunteers
-Volunteers can sign up using the [following form](https://goo.gl/forms/HMfqi3XA4cbC81sn1).
+Volunteers can sign up for a volunteer shift with the [following form](https://docs.google.com/spreadsheets/d/1Ycp4_XSsiaDE9qj07EEQa_atoHnJqGt_HkKOkvbQpnU/edit#gid=0).
 
 ### Partners
 
-We are actively seeking partners for the 2019 event to come interact with our students and/or provide meals for participants and volunteers.
+Thanks to our wonderful community partners! Without them, this event would not happen.
 
-Thanks to our 2018 partners:
+2019 partners:
+- [Atrium](https://atrium.ai)
+- [Tadpull](https://www.tadpull.com)
+
+2018 partners:
 - [Tadpull](https://www.tadpull.com)
 - [Zoot](https://zootsolutions.com)
 - [Data Infrastructure & Scholarly Communication at the Montana State University Library](https://www.montana.edu/disc/)
