@@ -28,9 +28,8 @@ Thanks to our generous partners meals will be provided during the event.
 Note there will also be short presentations from our partners during the course of the event and data prizes for teams that are able to answer questions using the event's data set.
 
 ##### Friday April 12
-- 5:30 Welcome
-- 5:35 Data Reveal
-- 6:00 Dinner
+- 6:00 Registration and Dinner
+- 6:15 Welcome and Data Reveal
 - 10:00 Doors Close
 
 ##### Saturday April 13
