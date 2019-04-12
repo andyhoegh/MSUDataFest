@@ -24,17 +24,20 @@ The second annual ASA DataFest at Montana we be held from April 12 - April 14 in
 Thanks to our generous partners meals will be provided during the event.
 
 
-### Tentative Schedule
-Note there will also be short presentations from our partners during the course of the event and data prizes for teams that are able to answer questions using the event's data set.
+### Event Schedule
+Unless otherwise noted, events will occur in Jabs Hall.
 
 ##### Friday April 12
 - 6:00 Registration and Dinner
 - 6:15 Welcome and Data Reveal
+- 8:00 [Rocky Mountain Data Science](https://rmds.tech)
 - 10:00 Doors Close
 
 ##### Saturday April 13
 - 8:30 Doors Open / Continental Breakfast
+- 11:00 [Tadpull](https://www.tadpull.com)
 - 12:00 Lunch
+- 4:30 [Atrium](https://atrium.ai)
 - 6:00 Dinner
 - 10:00 Doors Close
 
