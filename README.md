@@ -42,7 +42,7 @@ Unless otherwise noted, events will occur in Jabs Hall.
 - 10:00 Doors Close
 
 ##### Sunday April 14
-- 8:00 Doors Open / Continental Breakfast
+- 8:30 Doors Open / Continental Breakfast
 - 11:30 Presentations Due
 - 12:00 Presentations Start
 - 1:00 Final Awards
