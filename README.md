@@ -37,13 +37,14 @@ Unless otherwise noted, events will occur in Jabs Hall.
 - 8:30 Doors Open / Continental Breakfast
 - 11:00 [Tadpull](https://www.tadpull.com)
 - 12:00 Lunch
+- 1:00 - 2:00 [Rugby Match](https://www.facebook.com/bobcatsrugby/photos/a.719428051411736/2307083729312819/?type=3&theater) Dobbie Lambert IM fields
 - 4:30 [Atrium](https://atrium.ai)
-- 6:00 Dinner
+- 5:15 Dinner at Rendevzous
 - 10:00 Doors Close
 
 ##### Sunday April 14
 - 8:30 Doors Open / Continental Breakfast
-- 11:30 Presentations Due
+- 11:30 Presentations Due / Lunch
 - 12:00 Presentations Start
 - 1:00 Final Awards
 
