@@ -33,7 +33,7 @@ Thanks to our generous partners meals will be provided during the event.
 
 
 ### Event Schedule
-Unless otherwise noted, events will occur in Jabs Hall.
+Unless otherwise noted, events will occur in Romney Hall, Room 211.
 
 ##### Friday April 14
 - 6:15 Registration and Dinner
