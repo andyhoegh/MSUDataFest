@@ -5,6 +5,10 @@ DataFest is a 48-hour data science celebration organized by the American Statist
 The data set is unveiled on Friday evening and teams of students analyze the data and present their findings to a panel of judges on Sunday. Additional details about DataFest can be found on the [ASA website](https://ww2.amstat.org/education/datafest/).
 
 
+### Register for 2023 DataFest
+
+[Register Here](https://docs.google.com/forms/d/1KIrW4J2zbBJDOXBO84rkeheKcHHlZUsZvVG9RS3BfQk/edit){: .btn}
+
 ### Past Data Sets
 
 Each year a unique, and *top secret*, data set is curated for the contest. Past data providers include:
@@ -48,8 +52,6 @@ Unless otherwise noted, events will occur in Jabs Hall.
 - 11:45 Presentations Start
 - 1:00 Final Awards
 
-
-### Participants
 
 
 ### Volunteers
