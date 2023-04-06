@@ -43,12 +43,12 @@ Unless otherwise noted, events will occur in Jabs Hall.
 ##### Saturday April 15
 - 9:00 Doors Open / Continental Breakfast
 - 12:00 Lunch
-- 5:15 Dinner at Rendevzous
-- 10:00 Doors Close
+- 5:30 Dinner 
+- 9:00 Doors Close
 
 ##### Sunday April 16
-- 9:00 Doors Open / Continental Breakfast
-- 11:15 Presentations Due / Lunch
+- 9:00 Doors Open / Brunch
+- 11:15 Presentations Due 
 - 11:45 Presentations Start
 - 1:00 Final Awards
 
