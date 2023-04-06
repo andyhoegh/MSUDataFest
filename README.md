@@ -27,7 +27,7 @@ Each year a unique, and *top secret*, data set is curated for the contest. Past 
 - 2011 Los Angeles Police Department
 
 ## 2023 Competition
-The third annual ASA DataFest at Montana we be held from April 14 - April 16 on the campus of Montana State University. This year participation will be open to all undergraduate and first-year graduate students at colleges and universities in Montana. We are also seeking volunteers to serve as mentors and judges as well as corporate partners for the event.
+The third annual ASA DataFest at Montana we be held from April 14 - April 16 in Romney Hall on the campus of Montana State University. This year participation will be open to all undergraduate and first-year graduate students at colleges and universities in Montana. We are also seeking volunteers to serve as mentors and judges as well as corporate partners for the event.
 
 Thanks to our generous partners meals will be provided during the event.
 
