@@ -7,7 +7,7 @@ The data set is unveiled on Friday evening and teams of students analyze the dat
 
 ### Register for 2023 DataFest
 
-[Register Here](https://docs.google.com/forms/d/1KIrW4J2zbBJDOXBO84rkeheKcHHlZUsZvVG9RS3BfQk/edit){: .btn}
+[Register Here](https://docs.google.com/forms/d/1KIrW4J2zbBJDOXBO84rkeheKcHHlZUsZvVG9RS3BfQk/edit){: .btn} __REGISTRATION DEADLINE OF FRIDAY APRIL 14th AT NOON__
 
 ### Past Data Sets
 
